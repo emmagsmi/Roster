@@ -1,0 +1,6 @@
+﻿  SmithE_Pgm7.cpp
+C:\Users\emmag\Desktop\CS2010\SmithE_Pgm7\SmithE_Pgm7.cpp(116,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\emmag\Desktop\CS2010\SmithE_Pgm7\SmithE_Pgm7.cpp(124,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\emmag\Desktop\CS2010\SmithE_Pgm7\SmithE_Pgm7.cpp(131,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\emmag\Desktop\CS2010\SmithE_Pgm7\SmithE_Pgm7.cpp(139,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SmithE_Pgm7.vcxproj -> C:\Users\emmag\Desktop\CS2010\SmithE_Pgm7\x64\Debug\SmithE_Pgm7.exe
